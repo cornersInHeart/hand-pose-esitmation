@@ -1,0 +1,28 @@
+# subject_id directory genter
+0 train/Capture0 train/Capture4 train/Capture17 test/Capture4 male 
+1 train/Capture1 test/Capture2 male
+2 train/Capture2 male
+3 train/Capture3 male
+4 train/Capture5 train/Capture21 female
+5 train/Capture6 train/Capture26 male
+6 train/Capture7 male
+7 train/Capture8 train/Capture18 female
+8 train/Capture9 female
+9 val/Capture0 male
+10 test/Capture0 male
+11 test/Capture1 male
+12 train/Capture10 test/Capture3 female
+13 train/Capture11 male
+14 train/Capture12 male
+15 train/Capture13 train/Capture19 female
+16 train/Capture14 female
+17 train/Capture15 male
+18 train/Capture16 female
+19 train/Capture20 male
+20 train/Capture22 male
+21 train/Capture23 male
+22 train/Capture24 male
+23 train/Capture25 male
+24 test/Capture5 male
+25 test/Capture6 male
+26 test/Capture7 male
